@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Michael Holmes",
+	"email": "michael.holmes@test.com",
+	"phone": "987654321",
+	"city": "Hurlingham",
+	"state": "Nairobi",
+	"country": "Kenya",
+	"organization": "Apple Inc",
+	"jobProfile": "Sr. Software Engineer",
+	"additionalInfo": "Strong leadership abilities. Delivered several Projects"
+}

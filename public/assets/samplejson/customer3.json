@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "Monicah Kwamboka",
+	"email": "monicah.kwamboka@test.com",
+	"phone": "123412345",
+	"city": "Westlands",
+	"state": "Nairobi",
+	"country": "Kenya",
+	"organization": "Oracle",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Talented frontend Software Engineer. A creative!"
+}

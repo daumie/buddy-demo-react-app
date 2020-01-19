@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Matson Motuka",
+	"email": "matson.motuka@test.com",
+	"phone": "123456789",
+	"city": "Kasarani",
+	"state": "Nairobi",
+	"country": "Kenya",
+	"organization": "RedHat",
+	"jobProfile": "System Administrator",
+	"additionalInfo": "Talented Software Engineer."
+}
